@@ -1,4 +1,4 @@
 # TripGoal
-Link on Netlify
+Link on Page
 
 https://trf-tripgoal.netlify.app/
